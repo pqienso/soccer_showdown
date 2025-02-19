@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Oct  6 22:56:21 2024
+# Process ID: 38120
+# Current directory: C:/Users/bucks/Downloads/Telegram Desktop/S3_01_LIM_YU_MARCUS_WONG_NG_CHEE_ZACKERMAX_SEE_Improvements_Archive/thursday_FIVEpm
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent40144 C:\Users\bucks\Downloads\Telegram Desktop\S3_01_LIM_YU_MARCUS_WONG_NG_CHEE_ZACKERMAX_SEE_Improvements_Archive\thursday_FIVEpm\thursday_FIVEpm.xpr
+# Log file: C:/Users/bucks/Downloads/Telegram Desktop/S3_01_LIM_YU_MARCUS_WONG_NG_CHEE_ZACKERMAX_SEE_Improvements_Archive/thursday_FIVEpm/vivado.log
+# Journal file: C:/Users/bucks/Downloads/Telegram Desktop/S3_01_LIM_YU_MARCUS_WONG_NG_CHEE_ZACKERMAX_SEE_Improvements_Archive/thursday_FIVEpm\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/bucks/Downloads/Telegram Desktop/S3_01_LIM_YU_MARCUS_WONG_NG_CHEE_ZACKERMAX_SEE_Improvements_Archive/thursday_FIVEpm/thursday_FIVEpm.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/bucks/Downloads/Telegram Desktop/S3_01_LIM_YU_MARCUS_WONG_NG_CHEE_ZACKERMAX_SEE_Improvements_Archive/thursday_FIVEpm'
+INFO: [Project 1-313] Project file moved from 'C:/Users/ngchk/OneDrive/Desktop/testing for ee2026/FINALPARTLIMPEHINTEGRATE/thursday_FIVEpm/.Xil/Vivado-4276-cheekiang/PrjAr/_X_' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:07 . Memory (MB): peak = 904.605 ; gain = 171.797
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct  7 11:05:26 2024...

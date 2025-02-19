@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MODS.srcs/sources_1/new/MagnitudeCalculator.v" \
+"../../../../MODS.srcs/sources_1/new/square_root.v" \
+"../../../../MODS.srcs/sim_1/new/ResultantSim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
